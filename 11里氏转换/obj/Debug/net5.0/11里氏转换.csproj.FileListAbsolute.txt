@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\11里氏转换\bin\Debug\net5.0\11里氏转换.exe
+C:\Users\admin\source\repos\11里氏转换\bin\Debug\net5.0\11里氏转换.deps.json
+C:\Users\admin\source\repos\11里氏转换\bin\Debug\net5.0\11里氏转换.runtimeconfig.json
+C:\Users\admin\source\repos\11里氏转换\bin\Debug\net5.0\11里氏转换.runtimeconfig.dev.json
+C:\Users\admin\source\repos\11里氏转换\bin\Debug\net5.0\11里氏转换.dll
+C:\Users\admin\source\repos\11里氏转换\bin\Debug\net5.0\ref\11里氏转换.dll
+C:\Users\admin\source\repos\11里氏转换\bin\Debug\net5.0\11里氏转换.pdb
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.AssemblyInfo.cs
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.dll
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\ref\11里氏转换.dll
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.pdb
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.genruntimeconfig.cache
+C:\Users\admin\source\repos\11里氏转换\obj\Debug\net5.0\11里氏转换.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\57多线程\bin\Debug\net5.0\57多线程.exe
+C:\Users\admin\source\repos\57多线程\bin\Debug\net5.0\57多线程.deps.json
+C:\Users\admin\source\repos\57多线程\bin\Debug\net5.0\57多线程.runtimeconfig.json
+C:\Users\admin\source\repos\57多线程\bin\Debug\net5.0\57多线程.runtimeconfig.dev.json
+C:\Users\admin\source\repos\57多线程\bin\Debug\net5.0\57多线程.dll
+C:\Users\admin\source\repos\57多线程\bin\Debug\net5.0\ref\57多线程.dll
+C:\Users\admin\source\repos\57多线程\bin\Debug\net5.0\57多线程.pdb
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.AssemblyInfo.cs
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.dll
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\ref\57多线程.dll
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.pdb
+C:\Users\admin\source\repos\57多线程\obj\Debug\net5.0\57多线程.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "51定时换图片/1.0.0": {
+        "runtime": {
+          "51定时换图片.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "51定时换图片/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

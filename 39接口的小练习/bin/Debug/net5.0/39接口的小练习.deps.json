@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "39接口的小练习/1.0.0": {
+        "runtime": {
+          "39接口的小练习.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "39接口的小练习/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

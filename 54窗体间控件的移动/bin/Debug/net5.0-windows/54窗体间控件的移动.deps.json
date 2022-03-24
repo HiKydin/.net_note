@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "54窗体间控件的移动/1.0.0": {
+        "runtime": {
+          "54窗体间控件的移动.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "54窗体间控件的移动/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

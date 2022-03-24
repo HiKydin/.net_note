@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39接口的小练习", "39接口的小练习.csproj", "{53886453-A077-47EC-A50B-D31A015605AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40超市收银系统", "..\40超市收银系统\40超市收银系统.csproj", "{592B672C-4728-481C-896C-94A4FFF31D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53886453-A077-47EC-A50B-D31A015605AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53886453-A077-47EC-A50B-D31A015605AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53886453-A077-47EC-A50B-D31A015605AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53886453-A077-47EC-A50B-D31A015605AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592B672C-4728-481C-896C-94A4FFF31D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B672C-4728-481C-896C-94A4FFF31D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B672C-4728-481C-896C-94A4FFF31D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B672C-4728-481C-896C-94A4FFF31D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E4706B2-227F-4CFD-A877-16F2EBD9A1CD}
+	EndGlobalSection
+EndGlobal

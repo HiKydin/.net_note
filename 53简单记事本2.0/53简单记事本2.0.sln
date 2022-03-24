@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53简单记事本2.0", "53简单记事本2.0.csproj", "{2B24C6E9-FDFF-4CD9-8B7C-2F81BE7990C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54窗体间控件的移动", "..\54窗体间控件的移动\54窗体间控件的移动.csproj", "{0509F70A-78A6-4788-9302-11DE71EC4DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55GDI的基本用法", "..\55GDI的基本用法\55GDI的基本用法.csproj", "{373ADF61-042D-4AEF-8135-1DBA9029AACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56GDI绘制验证码", "..\56GDI绘制验证码\56GDI绘制验证码.csproj", "{7BC51106-72C8-47CC-A64F-525FC7852200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57多线程", "..\57多线程\57多线程.csproj", "{6FF67B5A-6EF9-45DB-9A85-F12CCCB533AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58单线程的缺点及解决", "..\58单线程的缺点及解决\58单线程的缺点及解决.csproj", "{D5FFEDEC-123F-4590-B11D-0B6A589D0CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59多线程摇奖机", "..\59多线程摇奖机\59多线程摇奖机.csproj", "{BA963488-C5DC-44C8-B017-F732AF5BE468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B24C6E9-FDFF-4CD9-8B7C-2F81BE7990C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B24C6E9-FDFF-4CD9-8B7C-2F81BE7990C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B24C6E9-FDFF-4CD9-8B7C-2F81BE7990C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B24C6E9-FDFF-4CD9-8B7C-2F81BE7990C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0509F70A-78A6-4788-9302-11DE71EC4DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0509F70A-78A6-4788-9302-11DE71EC4DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0509F70A-78A6-4788-9302-11DE71EC4DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0509F70A-78A6-4788-9302-11DE71EC4DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373ADF61-042D-4AEF-8135-1DBA9029AACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373ADF61-042D-4AEF-8135-1DBA9029AACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373ADF61-042D-4AEF-8135-1DBA9029AACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373ADF61-042D-4AEF-8135-1DBA9029AACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC51106-72C8-47CC-A64F-525FC7852200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC51106-72C8-47CC-A64F-525FC7852200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC51106-72C8-47CC-A64F-525FC7852200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC51106-72C8-47CC-A64F-525FC7852200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF67B5A-6EF9-45DB-9A85-F12CCCB533AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF67B5A-6EF9-45DB-9A85-F12CCCB533AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF67B5A-6EF9-45DB-9A85-F12CCCB533AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF67B5A-6EF9-45DB-9A85-F12CCCB533AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FFEDEC-123F-4590-B11D-0B6A589D0CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FFEDEC-123F-4590-B11D-0B6A589D0CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FFEDEC-123F-4590-B11D-0B6A589D0CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FFEDEC-123F-4590-B11D-0B6A589D0CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA963488-C5DC-44C8-B017-F732AF5BE468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA963488-C5DC-44C8-B017-F732AF5BE468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA963488-C5DC-44C8-B017-F732AF5BE468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA963488-C5DC-44C8-B017-F732AF5BE468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B68D01F-E93A-4504-BE6B-7A447C4CB3D5}
+	EndGlobalSection
+EndGlobal

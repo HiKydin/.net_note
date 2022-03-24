@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\05静态和非静态的区别\bin\Debug\net5.0\05静态和非静态的区别.exe
+C:\Users\admin\source\repos\05静态和非静态的区别\bin\Debug\net5.0\05静态和非静态的区别.deps.json
+C:\Users\admin\source\repos\05静态和非静态的区别\bin\Debug\net5.0\05静态和非静态的区别.runtimeconfig.json
+C:\Users\admin\source\repos\05静态和非静态的区别\bin\Debug\net5.0\05静态和非静态的区别.runtimeconfig.dev.json
+C:\Users\admin\source\repos\05静态和非静态的区别\bin\Debug\net5.0\05静态和非静态的区别.dll
+C:\Users\admin\source\repos\05静态和非静态的区别\bin\Debug\net5.0\ref\05静态和非静态的区别.dll
+C:\Users\admin\source\repos\05静态和非静态的区别\bin\Debug\net5.0\05静态和非静态的区别.pdb
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\05静态和非静态的区别.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\05静态和非静态的区别.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\05静态和非静态的区别.AssemblyInfo.cs
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\05静态和非静态的区别.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\05静态和非静态的区别.dll
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\ref\05静态和非静态的区别.dll
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\05静态和非静态的区别.pdb
+C:\Users\admin\source\repos\05静态和非静态的区别\obj\Debug\net5.0\05静态和非静态的区别.genruntimeconfig.cache

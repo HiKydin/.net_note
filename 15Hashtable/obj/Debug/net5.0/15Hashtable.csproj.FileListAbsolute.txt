@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\15Hashtable\bin\Debug\net5.0\15Hashtable.exe
+C:\Users\admin\source\repos\15Hashtable\bin\Debug\net5.0\15Hashtable.deps.json
+C:\Users\admin\source\repos\15Hashtable\bin\Debug\net5.0\15Hashtable.runtimeconfig.json
+C:\Users\admin\source\repos\15Hashtable\bin\Debug\net5.0\15Hashtable.runtimeconfig.dev.json
+C:\Users\admin\source\repos\15Hashtable\bin\Debug\net5.0\15Hashtable.dll
+C:\Users\admin\source\repos\15Hashtable\bin\Debug\net5.0\ref\15Hashtable.dll
+C:\Users\admin\source\repos\15Hashtable\bin\Debug\net5.0\15Hashtable.pdb
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.AssemblyInfo.cs
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.dll
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\ref\15Hashtable.dll
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.pdb
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.genruntimeconfig.cache
+C:\Users\admin\source\repos\15Hashtable\obj\Debug\net5.0\15Hashtable.csproj.AssemblyReference.cache

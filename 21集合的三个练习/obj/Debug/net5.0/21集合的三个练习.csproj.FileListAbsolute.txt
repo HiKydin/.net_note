@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\21集合的三个练习\bin\Debug\net5.0\21集合的三个练习.exe
+C:\Users\admin\source\repos\21集合的三个练习\bin\Debug\net5.0\21集合的三个练习.deps.json
+C:\Users\admin\source\repos\21集合的三个练习\bin\Debug\net5.0\21集合的三个练习.runtimeconfig.json
+C:\Users\admin\source\repos\21集合的三个练习\bin\Debug\net5.0\21集合的三个练习.runtimeconfig.dev.json
+C:\Users\admin\source\repos\21集合的三个练习\bin\Debug\net5.0\21集合的三个练习.dll
+C:\Users\admin\source\repos\21集合的三个练习\bin\Debug\net5.0\ref\21集合的三个练习.dll
+C:\Users\admin\source\repos\21集合的三个练习\bin\Debug\net5.0\21集合的三个练习.pdb
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.AssemblyInfo.cs
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.dll
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\ref\21集合的三个练习.dll
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.pdb
+C:\Users\admin\source\repos\21集合的三个练习\obj\Debug\net5.0\21集合的三个练习.genruntimeconfig.cache

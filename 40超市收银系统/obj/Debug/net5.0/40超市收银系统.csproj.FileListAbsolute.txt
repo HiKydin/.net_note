@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\40超市收银系统\bin\Debug\net5.0\40超市收银系统.exe
+C:\Users\admin\source\repos\40超市收银系统\bin\Debug\net5.0\40超市收银系统.deps.json
+C:\Users\admin\source\repos\40超市收银系统\bin\Debug\net5.0\40超市收银系统.runtimeconfig.json
+C:\Users\admin\source\repos\40超市收银系统\bin\Debug\net5.0\40超市收银系统.runtimeconfig.dev.json
+C:\Users\admin\source\repos\40超市收银系统\bin\Debug\net5.0\40超市收银系统.dll
+C:\Users\admin\source\repos\40超市收银系统\bin\Debug\net5.0\ref\40超市收银系统.dll
+C:\Users\admin\source\repos\40超市收银系统\bin\Debug\net5.0\40超市收银系统.pdb
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.AssemblyInfo.cs
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.dll
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\ref\40超市收银系统.dll
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.pdb
+C:\Users\admin\source\repos\40超市收银系统\obj\Debug\net5.0\40超市收银系统.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\03飞行棋\bin\Release\netcoreapp3.1\publish\03飞行棋.exe
+C:\Users\admin\source\repos\03飞行棋\bin\Release\netcoreapp3.1\publish\03飞行棋.dll
+C:\Users\admin\source\repos\03飞行棋\bin\Release\netcoreapp3.1\publish\03飞行棋.deps.json
+C:\Users\admin\source\repos\03飞行棋\bin\Release\netcoreapp3.1\publish\03飞行棋.runtimeconfig.json
+C:\Users\admin\source\repos\03飞行棋\bin\Release\netcoreapp3.1\publish\03飞行棋.pdb

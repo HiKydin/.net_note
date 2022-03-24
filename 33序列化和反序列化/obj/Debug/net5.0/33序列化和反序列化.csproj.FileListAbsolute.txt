@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\33序列化和反序列化\bin\Debug\net5.0\33序列化和反序列化.exe
+C:\Users\admin\source\repos\33序列化和反序列化\bin\Debug\net5.0\33序列化和反序列化.deps.json
+C:\Users\admin\source\repos\33序列化和反序列化\bin\Debug\net5.0\33序列化和反序列化.runtimeconfig.json
+C:\Users\admin\source\repos\33序列化和反序列化\bin\Debug\net5.0\33序列化和反序列化.runtimeconfig.dev.json
+C:\Users\admin\source\repos\33序列化和反序列化\bin\Debug\net5.0\33序列化和反序列化.dll
+C:\Users\admin\source\repos\33序列化和反序列化\bin\Debug\net5.0\ref\33序列化和反序列化.dll
+C:\Users\admin\source\repos\33序列化和反序列化\bin\Debug\net5.0\33序列化和反序列化.pdb
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.AssemblyInfo.cs
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.dll
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\ref\33序列化和反序列化.dll
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.pdb
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.genruntimeconfig.cache
+C:\Users\admin\source\repos\33序列化和反序列化\obj\Debug\net5.0\33序列化和反序列化.csproj.AssemblyReference.cache

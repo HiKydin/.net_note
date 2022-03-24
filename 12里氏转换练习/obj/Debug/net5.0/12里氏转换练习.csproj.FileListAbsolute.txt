@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\12里氏转换练习\bin\Debug\net5.0\12里氏转换练习.exe
+C:\Users\admin\source\repos\12里氏转换练习\bin\Debug\net5.0\12里氏转换练习.deps.json
+C:\Users\admin\source\repos\12里氏转换练习\bin\Debug\net5.0\12里氏转换练习.runtimeconfig.json
+C:\Users\admin\source\repos\12里氏转换练习\bin\Debug\net5.0\12里氏转换练习.runtimeconfig.dev.json
+C:\Users\admin\source\repos\12里氏转换练习\bin\Debug\net5.0\12里氏转换练习.dll
+C:\Users\admin\source\repos\12里氏转换练习\bin\Debug\net5.0\ref\12里氏转换练习.dll
+C:\Users\admin\source\repos\12里氏转换练习\bin\Debug\net5.0\12里氏转换练习.pdb
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.AssemblyInfo.cs
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.dll
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\ref\12里氏转换练习.dll
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.pdb
+C:\Users\admin\source\repos\12里氏转换练习\obj\Debug\net5.0\12里氏转换练习.genruntimeconfig.cache

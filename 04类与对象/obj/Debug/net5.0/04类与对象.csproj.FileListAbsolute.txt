@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\04类与对象\bin\Debug\net5.0\04类与对象.exe
+C:\Users\admin\source\repos\04类与对象\bin\Debug\net5.0\04类与对象.deps.json
+C:\Users\admin\source\repos\04类与对象\bin\Debug\net5.0\04类与对象.runtimeconfig.json
+C:\Users\admin\source\repos\04类与对象\bin\Debug\net5.0\04类与对象.runtimeconfig.dev.json
+C:\Users\admin\source\repos\04类与对象\bin\Debug\net5.0\04类与对象.dll
+C:\Users\admin\source\repos\04类与对象\bin\Debug\net5.0\ref\04类与对象.dll
+C:\Users\admin\source\repos\04类与对象\bin\Debug\net5.0\04类与对象.pdb
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.AssemblyInfo.cs
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.dll
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\ref\04类与对象.dll
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.pdb
+C:\Users\admin\source\repos\04类与对象\obj\Debug\net5.0\04类与对象.genruntimeconfig.cache

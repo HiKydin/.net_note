@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\63Client\bin\Debug\netcoreapp3.1\63Client.exe
+C:\Users\admin\source\repos\63Client\bin\Debug\netcoreapp3.1\63Client.deps.json
+C:\Users\admin\source\repos\63Client\bin\Debug\netcoreapp3.1\63Client.runtimeconfig.json
+C:\Users\admin\source\repos\63Client\bin\Debug\netcoreapp3.1\63Client.runtimeconfig.dev.json
+C:\Users\admin\source\repos\63Client\bin\Debug\netcoreapp3.1\63Client.dll
+C:\Users\admin\source\repos\63Client\bin\Debug\netcoreapp3.1\63Client.pdb
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\_63Client.Form1.resources
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.AssemblyInfo.cs
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.dll
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.pdb
+C:\Users\admin\source\repos\63Client\obj\Debug\netcoreapp3.1\63Client.genruntimeconfig.cache

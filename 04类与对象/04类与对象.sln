@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04类与对象", "04类与对象.csproj", "{96AF1270-4184-4CE1-8C6F-7D890C0B2F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05静态和非静态的区别", "..\05静态和非静态的区别\05静态和非静态的区别.csproj", "{966AA561-0BED-494E-A76C-78D753952247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AF1270-4184-4CE1-8C6F-7D890C0B2F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AF1270-4184-4CE1-8C6F-7D890C0B2F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AF1270-4184-4CE1-8C6F-7D890C0B2F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AF1270-4184-4CE1-8C6F-7D890C0B2F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966AA561-0BED-494E-A76C-78D753952247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966AA561-0BED-494E-A76C-78D753952247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966AA561-0BED-494E-A76C-78D753952247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966AA561-0BED-494E-A76C-78D753952247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24158B87-C875-47F2-8531-A5FEC499CAA8}
+	EndGlobalSection
+EndGlobal

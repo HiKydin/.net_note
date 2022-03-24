@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "38显示实现接口/1.0.0": {
+        "runtime": {
+          "38显示实现接口.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "38显示实现接口/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

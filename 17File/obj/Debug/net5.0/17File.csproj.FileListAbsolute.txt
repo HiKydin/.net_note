@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\17File\bin\Debug\net5.0\17File.exe
+C:\Users\admin\source\repos\17File\bin\Debug\net5.0\17File.deps.json
+C:\Users\admin\source\repos\17File\bin\Debug\net5.0\17File.runtimeconfig.json
+C:\Users\admin\source\repos\17File\bin\Debug\net5.0\17File.runtimeconfig.dev.json
+C:\Users\admin\source\repos\17File\bin\Debug\net5.0\17File.dll
+C:\Users\admin\source\repos\17File\bin\Debug\net5.0\ref\17File.dll
+C:\Users\admin\source\repos\17File\bin\Debug\net5.0\17File.pdb
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.AssemblyInfo.cs
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.dll
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\ref\17File.dll
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.pdb
+C:\Users\admin\source\repos\17File\obj\Debug\net5.0\17File.genruntimeconfig.cache

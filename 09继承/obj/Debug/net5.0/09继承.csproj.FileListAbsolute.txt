@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\09继承\bin\Debug\net5.0\09继承.exe
+C:\Users\admin\source\repos\09继承\bin\Debug\net5.0\09继承.deps.json
+C:\Users\admin\source\repos\09继承\bin\Debug\net5.0\09继承.runtimeconfig.json
+C:\Users\admin\source\repos\09继承\bin\Debug\net5.0\09继承.runtimeconfig.dev.json
+C:\Users\admin\source\repos\09继承\bin\Debug\net5.0\09继承.dll
+C:\Users\admin\source\repos\09继承\bin\Debug\net5.0\ref\09继承.dll
+C:\Users\admin\source\repos\09继承\bin\Debug\net5.0\09继承.pdb
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.AssemblyInfo.cs
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.dll
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\ref\09继承.dll
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.pdb
+C:\Users\admin\source\repos\09继承\obj\Debug\net5.0\09继承.genruntimeconfig.cache

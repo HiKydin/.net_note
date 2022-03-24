@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\39接口的小练习\bin\Debug\net5.0\39接口的小练习.exe
+C:\Users\admin\source\repos\39接口的小练习\bin\Debug\net5.0\39接口的小练习.deps.json
+C:\Users\admin\source\repos\39接口的小练习\bin\Debug\net5.0\39接口的小练习.runtimeconfig.json
+C:\Users\admin\source\repos\39接口的小练习\bin\Debug\net5.0\39接口的小练习.runtimeconfig.dev.json
+C:\Users\admin\source\repos\39接口的小练习\bin\Debug\net5.0\39接口的小练习.dll
+C:\Users\admin\source\repos\39接口的小练习\bin\Debug\net5.0\ref\39接口的小练习.dll
+C:\Users\admin\source\repos\39接口的小练习\bin\Debug\net5.0\39接口的小练习.pdb
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.AssemblyInfo.cs
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.dll
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\ref\39接口的小练习.dll
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.pdb
+C:\Users\admin\source\repos\39接口的小练习\obj\Debug\net5.0\39接口的小练习.genruntimeconfig.cache

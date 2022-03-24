@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\43loveu\bin\Debug\net5.0-windows\43loveu.exe
+C:\Users\admin\source\repos\43loveu\bin\Debug\net5.0-windows\43loveu.deps.json
+C:\Users\admin\source\repos\43loveu\bin\Debug\net5.0-windows\43loveu.runtimeconfig.json
+C:\Users\admin\source\repos\43loveu\bin\Debug\net5.0-windows\43loveu.runtimeconfig.dev.json
+C:\Users\admin\source\repos\43loveu\bin\Debug\net5.0-windows\43loveu.dll
+C:\Users\admin\source\repos\43loveu\bin\Debug\net5.0-windows\ref\43loveu.dll
+C:\Users\admin\source\repos\43loveu\bin\Debug\net5.0-windows\43loveu.pdb
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\_43loveu.Form1.resources
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.AssemblyInfo.cs
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.dll
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\ref\43loveu.dll
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.pdb
+C:\Users\admin\source\repos\43loveu\obj\Debug\net5.0-windows\43loveu.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\你追我赶.exe
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\你追我赶.deps.json
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\你追我赶.runtimeconfig.json
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\你追我赶.runtimeconfig.dev.json
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\你追我赶.dll
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\你追我赶.pdb
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.AssemblyInfo.cs
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.dll
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.pdb
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\你追我赶.genruntimeconfig.cache

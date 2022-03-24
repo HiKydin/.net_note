@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\36重写父类的ToString\bin\Debug\net5.0\36重写父类的ToString.exe
+C:\Users\admin\source\repos\36重写父类的ToString\bin\Debug\net5.0\36重写父类的ToString.deps.json
+C:\Users\admin\source\repos\36重写父类的ToString\bin\Debug\net5.0\36重写父类的ToString.runtimeconfig.json
+C:\Users\admin\source\repos\36重写父类的ToString\bin\Debug\net5.0\36重写父类的ToString.runtimeconfig.dev.json
+C:\Users\admin\source\repos\36重写父类的ToString\bin\Debug\net5.0\36重写父类的ToString.dll
+C:\Users\admin\source\repos\36重写父类的ToString\bin\Debug\net5.0\ref\36重写父类的ToString.dll
+C:\Users\admin\source\repos\36重写父类的ToString\bin\Debug\net5.0\36重写父类的ToString.pdb
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\36重写父类的ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\36重写父类的ToString.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\36重写父类的ToString.AssemblyInfo.cs
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\36重写父类的ToString.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\36重写父类的ToString.dll
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\ref\36重写父类的ToString.dll
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\36重写父类的ToString.pdb
+C:\Users\admin\source\repos\36重写父类的ToString\obj\Debug\net5.0\36重写父类的ToString.genruntimeconfig.cache

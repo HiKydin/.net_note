@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "52石头剪刀布/1.0.0": {
+        "runtime": {
+          "52石头剪刀布.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "52石头剪刀布/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

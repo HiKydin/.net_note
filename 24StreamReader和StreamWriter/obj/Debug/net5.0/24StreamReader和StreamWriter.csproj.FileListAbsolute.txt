@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\bin\Debug\net5.0\24StreamReader和StreamWriter.exe
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\bin\Debug\net5.0\24StreamReader和StreamWriter.deps.json
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\bin\Debug\net5.0\24StreamReader和StreamWriter.runtimeconfig.json
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\bin\Debug\net5.0\24StreamReader和StreamWriter.runtimeconfig.dev.json
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\bin\Debug\net5.0\24StreamReader和StreamWriter.dll
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\bin\Debug\net5.0\ref\24StreamReader和StreamWriter.dll
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\bin\Debug\net5.0\24StreamReader和StreamWriter.pdb
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.AssemblyInfo.cs
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.dll
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\ref\24StreamReader和StreamWriter.dll
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.pdb
+C:\Users\admin\source\repos\24StreamReader和StreamWriter\obj\Debug\net5.0\24StreamReader和StreamWriter.genruntimeconfig.cache

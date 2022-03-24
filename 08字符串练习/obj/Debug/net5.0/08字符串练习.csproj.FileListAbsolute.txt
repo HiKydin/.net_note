@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\08字符串练习\bin\Debug\net5.0\08字符串练习.exe
+C:\Users\admin\source\repos\08字符串练习\bin\Debug\net5.0\08字符串练习.deps.json
+C:\Users\admin\source\repos\08字符串练习\bin\Debug\net5.0\08字符串练习.runtimeconfig.json
+C:\Users\admin\source\repos\08字符串练习\bin\Debug\net5.0\08字符串练习.runtimeconfig.dev.json
+C:\Users\admin\source\repos\08字符串练习\bin\Debug\net5.0\08字符串练习.dll
+C:\Users\admin\source\repos\08字符串练习\bin\Debug\net5.0\ref\08字符串练习.dll
+C:\Users\admin\source\repos\08字符串练习\bin\Debug\net5.0\08字符串练习.pdb
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\08字符串练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\08字符串练习.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\08字符串练习.AssemblyInfo.cs
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\08字符串练习.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\08字符串练习.dll
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\ref\08字符串练习.dll
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\08字符串练习.pdb
+C:\Users\admin\source\repos\08字符串练习\obj\Debug\net5.0\08字符串练习.genruntimeconfig.cache

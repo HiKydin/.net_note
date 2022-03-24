@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\30cs中的访问修饰符\bin\Debug\net5.0\30cs中的访问修饰符.exe
+C:\Users\admin\source\repos\30cs中的访问修饰符\bin\Debug\net5.0\30cs中的访问修饰符.deps.json
+C:\Users\admin\source\repos\30cs中的访问修饰符\bin\Debug\net5.0\30cs中的访问修饰符.runtimeconfig.json
+C:\Users\admin\source\repos\30cs中的访问修饰符\bin\Debug\net5.0\30cs中的访问修饰符.runtimeconfig.dev.json
+C:\Users\admin\source\repos\30cs中的访问修饰符\bin\Debug\net5.0\30cs中的访问修饰符.dll
+C:\Users\admin\source\repos\30cs中的访问修饰符\bin\Debug\net5.0\ref\30cs中的访问修饰符.dll
+C:\Users\admin\source\repos\30cs中的访问修饰符\bin\Debug\net5.0\30cs中的访问修饰符.pdb
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.AssemblyInfo.cs
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.dll
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\ref\30cs中的访问修饰符.dll
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.pdb
+C:\Users\admin\source\repos\30cs中的访问修饰符\obj\Debug\net5.0\30cs中的访问修饰符.genruntimeconfig.cache

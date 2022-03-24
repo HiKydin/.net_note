@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\32值传递和引用传递\bin\Debug\net5.0\32值传递和引用传递.exe
+C:\Users\admin\source\repos\32值传递和引用传递\bin\Debug\net5.0\32值传递和引用传递.deps.json
+C:\Users\admin\source\repos\32值传递和引用传递\bin\Debug\net5.0\32值传递和引用传递.runtimeconfig.json
+C:\Users\admin\source\repos\32值传递和引用传递\bin\Debug\net5.0\32值传递和引用传递.runtimeconfig.dev.json
+C:\Users\admin\source\repos\32值传递和引用传递\bin\Debug\net5.0\32值传递和引用传递.dll
+C:\Users\admin\source\repos\32值传递和引用传递\bin\Debug\net5.0\ref\32值传递和引用传递.dll
+C:\Users\admin\source\repos\32值传递和引用传递\bin\Debug\net5.0\32值传递和引用传递.pdb
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.AssemblyInfo.cs
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.dll
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\ref\32值传递和引用传递.dll
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.pdb
+C:\Users\admin\source\repos\32值传递和引用传递\obj\Debug\net5.0\32值传递和引用传递.genruntimeconfig.cache

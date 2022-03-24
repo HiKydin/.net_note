@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "23用FileStream复制多媒体文件/1.0.0": {
+        "runtime": {
+          "23用FileStream复制多媒体文件.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23用FileStream复制多媒体文件/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

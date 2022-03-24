@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\47单选和多选控件\bin\Debug\net5.0-windows\47单选和多选控件.exe
+C:\Users\admin\source\repos\47单选和多选控件\bin\Debug\net5.0-windows\47单选和多选控件.deps.json
+C:\Users\admin\source\repos\47单选和多选控件\bin\Debug\net5.0-windows\47单选和多选控件.runtimeconfig.json
+C:\Users\admin\source\repos\47单选和多选控件\bin\Debug\net5.0-windows\47单选和多选控件.runtimeconfig.dev.json
+C:\Users\admin\source\repos\47单选和多选控件\bin\Debug\net5.0-windows\47单选和多选控件.dll
+C:\Users\admin\source\repos\47单选和多选控件\bin\Debug\net5.0-windows\ref\47单选和多选控件.dll
+C:\Users\admin\source\repos\47单选和多选控件\bin\Debug\net5.0-windows\47单选和多选控件.pdb
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\_47单选和多选控件.Form1.resources
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.AssemblyInfo.cs
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.dll
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\ref\47单选和多选控件.dll
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.pdb
+C:\Users\admin\source\repos\47单选和多选控件\obj\Debug\net5.0-windows\47单选和多选控件.genruntimeconfig.cache

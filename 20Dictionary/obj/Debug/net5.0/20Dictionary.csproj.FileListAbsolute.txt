@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\20Dictionary\bin\Debug\net5.0\20Dictionary.exe
+C:\Users\admin\source\repos\20Dictionary\bin\Debug\net5.0\20Dictionary.deps.json
+C:\Users\admin\source\repos\20Dictionary\bin\Debug\net5.0\20Dictionary.runtimeconfig.json
+C:\Users\admin\source\repos\20Dictionary\bin\Debug\net5.0\20Dictionary.runtimeconfig.dev.json
+C:\Users\admin\source\repos\20Dictionary\bin\Debug\net5.0\20Dictionary.dll
+C:\Users\admin\source\repos\20Dictionary\bin\Debug\net5.0\ref\20Dictionary.dll
+C:\Users\admin\source\repos\20Dictionary\bin\Debug\net5.0\20Dictionary.pdb
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\20Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\20Dictionary.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\20Dictionary.AssemblyInfo.cs
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\20Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\20Dictionary.dll
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\ref\20Dictionary.dll
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\20Dictionary.pdb
+C:\Users\admin\source\repos\20Dictionary\obj\Debug\net5.0\20Dictionary.genruntimeconfig.cache

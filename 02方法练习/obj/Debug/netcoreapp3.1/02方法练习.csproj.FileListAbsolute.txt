@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\02方法练习\bin\Debug\netcoreapp3.1\02方法练习.exe
+C:\Users\admin\source\repos\02方法练习\bin\Debug\netcoreapp3.1\02方法练习.deps.json
+C:\Users\admin\source\repos\02方法练习\bin\Debug\netcoreapp3.1\02方法练习.runtimeconfig.json
+C:\Users\admin\source\repos\02方法练习\bin\Debug\netcoreapp3.1\02方法练习.runtimeconfig.dev.json
+C:\Users\admin\source\repos\02方法练习\bin\Debug\netcoreapp3.1\02方法练习.dll
+C:\Users\admin\source\repos\02方法练习\bin\Debug\netcoreapp3.1\02方法练习.pdb
+C:\Users\admin\source\repos\02方法练习\obj\Debug\netcoreapp3.1\02方法练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\02方法练习\obj\Debug\netcoreapp3.1\02方法练习.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\02方法练习\obj\Debug\netcoreapp3.1\02方法练习.AssemblyInfo.cs
+C:\Users\admin\source\repos\02方法练习\obj\Debug\netcoreapp3.1\02方法练习.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\02方法练习\obj\Debug\netcoreapp3.1\02方法练习.dll
+C:\Users\admin\source\repos\02方法练习\obj\Debug\netcoreapp3.1\02方法练习.pdb
+C:\Users\admin\source\repos\02方法练习\obj\Debug\netcoreapp3.1\02方法练习.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "14集合的两个练习/1.0.0": {
+        "runtime": {
+          "14集合的两个练习.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14集合的两个练习/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

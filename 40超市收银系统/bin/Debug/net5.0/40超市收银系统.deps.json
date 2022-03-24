@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "40超市收银系统/1.0.0": {
+        "runtime": {
+          "40超市收银系统.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "40超市收银系统/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

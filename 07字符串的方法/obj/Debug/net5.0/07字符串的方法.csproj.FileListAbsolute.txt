@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\07字符串的方法\bin\Debug\net5.0\07字符串的方法.exe
+C:\Users\admin\source\repos\07字符串的方法\bin\Debug\net5.0\07字符串的方法.deps.json
+C:\Users\admin\source\repos\07字符串的方法\bin\Debug\net5.0\07字符串的方法.runtimeconfig.json
+C:\Users\admin\source\repos\07字符串的方法\bin\Debug\net5.0\07字符串的方法.runtimeconfig.dev.json
+C:\Users\admin\source\repos\07字符串的方法\bin\Debug\net5.0\07字符串的方法.dll
+C:\Users\admin\source\repos\07字符串的方法\bin\Debug\net5.0\ref\07字符串的方法.dll
+C:\Users\admin\source\repos\07字符串的方法\bin\Debug\net5.0\07字符串的方法.pdb
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.AssemblyInfo.cs
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.dll
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\ref\07字符串的方法.dll
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.pdb
+C:\Users\admin\source\repos\07字符串的方法\obj\Debug\net5.0\07字符串的方法.genruntimeconfig.cache

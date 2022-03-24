@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\22FileStream\bin\Debug\net5.0\22FileStream.exe
+C:\Users\admin\source\repos\22FileStream\bin\Debug\net5.0\22FileStream.deps.json
+C:\Users\admin\source\repos\22FileStream\bin\Debug\net5.0\22FileStream.runtimeconfig.json
+C:\Users\admin\source\repos\22FileStream\bin\Debug\net5.0\22FileStream.runtimeconfig.dev.json
+C:\Users\admin\source\repos\22FileStream\bin\Debug\net5.0\22FileStream.dll
+C:\Users\admin\source\repos\22FileStream\bin\Debug\net5.0\ref\22FileStream.dll
+C:\Users\admin\source\repos\22FileStream\bin\Debug\net5.0\22FileStream.pdb
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.AssemblyInfo.cs
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.dll
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\ref\22FileStream.dll
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.pdb
+C:\Users\admin\source\repos\22FileStream\obj\Debug\net5.0\22FileStream.genruntimeconfig.cache

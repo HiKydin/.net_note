@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05静态和非静态的区别", "05静态和非静态的区别.csproj", "{1600005C-BCE9-421F-8FBB-C13BCD5A3E44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06面向对象练习", "..\06面向对象练习\06面向对象练习.csproj", "{D01C22E0-099C-4A47-8B9D-A715FE52F552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07字符串的方法", "..\07字符串的方法\07字符串的方法.csproj", "{74076154-7414-4407-BE8F-0D09C34E09D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1600005C-BCE9-421F-8FBB-C13BCD5A3E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1600005C-BCE9-421F-8FBB-C13BCD5A3E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1600005C-BCE9-421F-8FBB-C13BCD5A3E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1600005C-BCE9-421F-8FBB-C13BCD5A3E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01C22E0-099C-4A47-8B9D-A715FE52F552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01C22E0-099C-4A47-8B9D-A715FE52F552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01C22E0-099C-4A47-8B9D-A715FE52F552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01C22E0-099C-4A47-8B9D-A715FE52F552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74076154-7414-4407-BE8F-0D09C34E09D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74076154-7414-4407-BE8F-0D09C34E09D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74076154-7414-4407-BE8F-0D09C34E09D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74076154-7414-4407-BE8F-0D09C34E09D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28AA1470-CBC2-40AD-AF78-B96A28544B83}
+	EndGlobalSection
+EndGlobal

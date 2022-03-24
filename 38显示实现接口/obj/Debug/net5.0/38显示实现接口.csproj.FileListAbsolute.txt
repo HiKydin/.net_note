@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\38显示实现接口\bin\Debug\net5.0\38显示实现接口.exe
+C:\Users\admin\source\repos\38显示实现接口\bin\Debug\net5.0\38显示实现接口.deps.json
+C:\Users\admin\source\repos\38显示实现接口\bin\Debug\net5.0\38显示实现接口.runtimeconfig.json
+C:\Users\admin\source\repos\38显示实现接口\bin\Debug\net5.0\38显示实现接口.runtimeconfig.dev.json
+C:\Users\admin\source\repos\38显示实现接口\bin\Debug\net5.0\38显示实现接口.dll
+C:\Users\admin\source\repos\38显示实现接口\bin\Debug\net5.0\ref\38显示实现接口.dll
+C:\Users\admin\source\repos\38显示实现接口\bin\Debug\net5.0\38显示实现接口.pdb
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\38显示实现接口.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\38显示实现接口.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\38显示实现接口.AssemblyInfo.cs
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\38显示实现接口.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\38显示实现接口.dll
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\ref\38显示实现接口.dll
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\38显示实现接口.pdb
+C:\Users\admin\source\repos\38显示实现接口\obj\Debug\net5.0\38显示实现接口.genruntimeconfig.cache

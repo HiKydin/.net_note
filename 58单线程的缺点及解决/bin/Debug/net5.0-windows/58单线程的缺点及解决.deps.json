@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "58单线程的缺点及解决/1.0.0": {
+        "runtime": {
+          "58单线程的缺点及解决.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "58单线程的缺点及解决/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

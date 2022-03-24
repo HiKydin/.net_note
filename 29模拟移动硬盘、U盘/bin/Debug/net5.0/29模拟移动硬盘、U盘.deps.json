@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "29模拟移动硬盘、U盘/1.0.0": {
+        "runtime": {
+          "29模拟移动硬盘、U盘.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "29模拟移动硬盘、U盘/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\18List泛型集合\bin\Debug\net5.0\18List泛型集合.exe
+C:\Users\admin\source\repos\18List泛型集合\bin\Debug\net5.0\18List泛型集合.deps.json
+C:\Users\admin\source\repos\18List泛型集合\bin\Debug\net5.0\18List泛型集合.runtimeconfig.json
+C:\Users\admin\source\repos\18List泛型集合\bin\Debug\net5.0\18List泛型集合.runtimeconfig.dev.json
+C:\Users\admin\source\repos\18List泛型集合\bin\Debug\net5.0\18List泛型集合.dll
+C:\Users\admin\source\repos\18List泛型集合\bin\Debug\net5.0\ref\18List泛型集合.dll
+C:\Users\admin\source\repos\18List泛型集合\bin\Debug\net5.0\18List泛型集合.pdb
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\18List泛型集合.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\18List泛型集合.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\18List泛型集合.AssemblyInfo.cs
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\18List泛型集合.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\18List泛型集合.dll
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\ref\18List泛型集合.dll
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\18List泛型集合.pdb
+C:\Users\admin\source\repos\18List泛型集合\obj\Debug\net5.0\18List泛型集合.genruntimeconfig.cache

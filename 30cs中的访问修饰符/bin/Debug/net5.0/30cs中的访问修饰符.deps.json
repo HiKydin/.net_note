@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "30cs中的访问修饰符/1.0.0": {
+        "runtime": {
+          "30cs中的访问修饰符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "30cs中的访问修饰符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

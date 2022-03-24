@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "50图片的上一张和下一张/1.0.0": {
+        "runtime": {
+          "50图片的上一张和下一张.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "50图片的上一张和下一张/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\bin\Debug\net5.0\29模拟移动硬盘、U盘.exe
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\bin\Debug\net5.0\29模拟移动硬盘、U盘.deps.json
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\bin\Debug\net5.0\29模拟移动硬盘、U盘.runtimeconfig.json
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\bin\Debug\net5.0\29模拟移动硬盘、U盘.runtimeconfig.dev.json
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\bin\Debug\net5.0\29模拟移动硬盘、U盘.dll
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\bin\Debug\net5.0\ref\29模拟移动硬盘、U盘.dll
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\bin\Debug\net5.0\29模拟移动硬盘、U盘.pdb
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.AssemblyInfo.cs
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.dll
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\ref\29模拟移动硬盘、U盘.dll
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.pdb
+C:\Users\admin\source\repos\29模拟移动硬盘、U盘\obj\Debug\net5.0\29模拟移动硬盘、U盘.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\01方法的使用\bin\Debug\netcoreapp3.1\01方法的使用.exe
+C:\Users\admin\source\repos\01方法的使用\bin\Debug\netcoreapp3.1\01方法的使用.deps.json
+C:\Users\admin\source\repos\01方法的使用\bin\Debug\netcoreapp3.1\01方法的使用.runtimeconfig.json
+C:\Users\admin\source\repos\01方法的使用\bin\Debug\netcoreapp3.1\01方法的使用.runtimeconfig.dev.json
+C:\Users\admin\source\repos\01方法的使用\bin\Debug\netcoreapp3.1\01方法的使用.dll
+C:\Users\admin\source\repos\01方法的使用\bin\Debug\netcoreapp3.1\01方法的使用.pdb
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.AssemblyInfo.cs
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.dll
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.pdb
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.genruntimeconfig.cache
+C:\Users\admin\source\repos\01方法的使用\obj\Debug\netcoreapp3.1\01方法的使用.csproj.AssemblyReference.cache

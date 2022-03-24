@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\03飞行棋.exe
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\03飞行棋.deps.json
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\03飞行棋.runtimeconfig.json
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\03飞行棋.runtimeconfig.dev.json
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\03飞行棋.dll
+C:\Users\admin\source\repos\03飞行棋\bin\Debug\netcoreapp3.1\03飞行棋.pdb
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.AssemblyInfo.cs
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.dll
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.pdb
+C:\Users\admin\source\repos\03飞行棋\obj\Debug\netcoreapp3.1\03飞行棋.genruntimeconfig.cache

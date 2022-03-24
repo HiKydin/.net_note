@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "31简单工厂设计模式/1.0.0": {
+        "runtime": {
+          "31简单工厂设计模式.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "31简单工厂设计模式/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

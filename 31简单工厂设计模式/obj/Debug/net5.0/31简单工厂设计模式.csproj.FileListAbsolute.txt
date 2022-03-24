@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\31简单工厂设计模式\bin\Debug\net5.0\31简单工厂设计模式.exe
+C:\Users\admin\source\repos\31简单工厂设计模式\bin\Debug\net5.0\31简单工厂设计模式.deps.json
+C:\Users\admin\source\repos\31简单工厂设计模式\bin\Debug\net5.0\31简单工厂设计模式.runtimeconfig.json
+C:\Users\admin\source\repos\31简单工厂设计模式\bin\Debug\net5.0\31简单工厂设计模式.runtimeconfig.dev.json
+C:\Users\admin\source\repos\31简单工厂设计模式\bin\Debug\net5.0\31简单工厂设计模式.dll
+C:\Users\admin\source\repos\31简单工厂设计模式\bin\Debug\net5.0\ref\31简单工厂设计模式.dll
+C:\Users\admin\source\repos\31简单工厂设计模式\bin\Debug\net5.0\31简单工厂设计模式.pdb
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.AssemblyInfo.cs
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.dll
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\ref\31简单工厂设计模式.dll
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.pdb
+C:\Users\admin\source\repos\31简单工厂设计模式\obj\Debug\net5.0\31简单工厂设计模式.genruntimeconfig.cache

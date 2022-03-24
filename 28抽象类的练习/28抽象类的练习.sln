@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28抽象类的练习", "28抽象类的练习.csproj", "{88D3DBFD-2714-4B23-B5F4-568ECF7B78A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29模拟移动硬盘、U盘", "..\29模拟移动硬盘、U盘\29模拟移动硬盘、U盘.csproj", "{18011871-534E-490E-A147-C5E74FC3F9D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D3DBFD-2714-4B23-B5F4-568ECF7B78A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D3DBFD-2714-4B23-B5F4-568ECF7B78A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D3DBFD-2714-4B23-B5F4-568ECF7B78A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D3DBFD-2714-4B23-B5F4-568ECF7B78A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18011871-534E-490E-A147-C5E74FC3F9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18011871-534E-490E-A147-C5E74FC3F9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18011871-534E-490E-A147-C5E74FC3F9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18011871-534E-490E-A147-C5E74FC3F9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F23C6370-6D89-4BE4-8FB7-14A2AE783A1C}
+	EndGlobalSection
+EndGlobal

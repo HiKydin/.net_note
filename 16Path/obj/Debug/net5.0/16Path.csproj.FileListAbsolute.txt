@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\16Path\bin\Debug\net5.0\16Path.exe
+C:\Users\admin\source\repos\16Path\bin\Debug\net5.0\16Path.deps.json
+C:\Users\admin\source\repos\16Path\bin\Debug\net5.0\16Path.runtimeconfig.json
+C:\Users\admin\source\repos\16Path\bin\Debug\net5.0\16Path.runtimeconfig.dev.json
+C:\Users\admin\source\repos\16Path\bin\Debug\net5.0\16Path.dll
+C:\Users\admin\source\repos\16Path\bin\Debug\net5.0\ref\16Path.dll
+C:\Users\admin\source\repos\16Path\bin\Debug\net5.0\16Path.pdb
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\16Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\16Path.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\16Path.AssemblyInfo.cs
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\16Path.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\16Path.dll
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\ref\16Path.dll
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\16Path.pdb
+C:\Users\admin\source\repos\16Path\obj\Debug\net5.0\16Path.genruntimeconfig.cache

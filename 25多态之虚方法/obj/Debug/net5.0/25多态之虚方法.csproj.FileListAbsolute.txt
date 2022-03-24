@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\25多态之虚方法\bin\Debug\net5.0\25多态之虚方法.exe
+C:\Users\admin\source\repos\25多态之虚方法\bin\Debug\net5.0\25多态之虚方法.deps.json
+C:\Users\admin\source\repos\25多态之虚方法\bin\Debug\net5.0\25多态之虚方法.runtimeconfig.json
+C:\Users\admin\source\repos\25多态之虚方法\bin\Debug\net5.0\25多态之虚方法.runtimeconfig.dev.json
+C:\Users\admin\source\repos\25多态之虚方法\bin\Debug\net5.0\25多态之虚方法.dll
+C:\Users\admin\source\repos\25多态之虚方法\bin\Debug\net5.0\ref\25多态之虚方法.dll
+C:\Users\admin\source\repos\25多态之虚方法\bin\Debug\net5.0\25多态之虚方法.pdb
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.AssemblyInfo.cs
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.dll
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\ref\25多态之虚方法.dll
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.pdb
+C:\Users\admin\source\repos\25多态之虚方法\obj\Debug\net5.0\25多态之虚方法.genruntimeconfig.cache

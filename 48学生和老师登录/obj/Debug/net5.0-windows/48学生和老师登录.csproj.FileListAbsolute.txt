@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\48学生和老师登录\bin\Debug\net5.0-windows\48学生和老师登录.exe
+C:\Users\admin\source\repos\48学生和老师登录\bin\Debug\net5.0-windows\48学生和老师登录.deps.json
+C:\Users\admin\source\repos\48学生和老师登录\bin\Debug\net5.0-windows\48学生和老师登录.runtimeconfig.json
+C:\Users\admin\source\repos\48学生和老师登录\bin\Debug\net5.0-windows\48学生和老师登录.runtimeconfig.dev.json
+C:\Users\admin\source\repos\48学生和老师登录\bin\Debug\net5.0-windows\48学生和老师登录.dll
+C:\Users\admin\source\repos\48学生和老师登录\bin\Debug\net5.0-windows\ref\48学生和老师登录.dll
+C:\Users\admin\source\repos\48学生和老师登录\bin\Debug\net5.0-windows\48学生和老师登录.pdb
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\_48学生和老师登录.Form1.resources
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.AssemblyInfo.cs
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.dll
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\ref\48学生和老师登录.dll
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.pdb
+C:\Users\admin\source\repos\48学生和老师登录\obj\Debug\net5.0-windows\48学生和老师登录.genruntimeconfig.cache
